@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/focus/Documents/Unreal Projects/UE_Teaching/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/focus/Documents/Unreal Projects/UE_Teaching/Content/Week7-1.umap",
+				"C:/Users/focus/Documents/Unreal Projects/UE_Teaching/Content/StarterContent/Materials/M_Red.uasset",
+				"C:/Users/focus/Documents/Unreal Projects/UE_Teaching/Content/StarterContent/Materials/M_Blue.uasset",
+				"C:/Users/focus/Documents/Unreal Projects/UE_Teaching/Content/StarterContent/Materials/M_Yellow.uasset"
+			]
+		}
+	]
+}
